@@ -1,1 +1,2 @@
 Olá! Meu nome é Cláudio.
+Eu sou uma nova linha.
